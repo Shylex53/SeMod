@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "firstmod:jizz_ore"
+  },
+  "result": "firstmod:cum_jelly",
+  "experience": 0.7,
+  "cookingtime": 200
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "firstmod:cum_block"
+    }
+  ],
+  "result": {
+    "item": "firstmod:cum_jelly",
+    "count": 9
+  }
+}
